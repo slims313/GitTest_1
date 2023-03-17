@@ -3,7 +3,7 @@ print("Hello world :) !!!")
 
 
 def summ(a, b):
-    return a + b
+    return a + b  # Summ func
 
 
 if __name__ == '__main__':
