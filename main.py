@@ -7,4 +7,4 @@ def summ(a, b):
 
 
 if __name__ == '__main__':
-    print(summ(7, 8))
+    print(summ(-1, -9))
